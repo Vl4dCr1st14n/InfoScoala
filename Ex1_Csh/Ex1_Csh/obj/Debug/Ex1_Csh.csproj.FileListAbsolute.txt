@@ -1,0 +1,9 @@
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\bin\Debug\Ex1_Csh.exe.config
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\bin\Debug\Ex1_Csh.exe
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\bin\Debug\Ex1_Csh.pdb
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.csprojResolveAssemblyReference.cache
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.Properties.Resources.resources
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.csproj.GenerateResource.Cache
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.exe
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.pdb
+E:\Farcas_Vlad_Cristian\c#\Ex1_Csh\Ex1_Csh\obj\Debug\Ex1_Csh.Form1.resources
